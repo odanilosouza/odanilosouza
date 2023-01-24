@@ -7,7 +7,7 @@
 - 😄 Ele/ Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odanilosouza&show_icons=true&theme=radical)
-<img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odanilosouza&langs_count=8&layout=compact&theme=radical">
+<img width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odanilosouza&langs_count=8&layout=compact&theme=radical">
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Scott-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"">
