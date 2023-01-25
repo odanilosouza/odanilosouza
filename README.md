@@ -4,7 +4,6 @@
 
 - 🔭 Sou estudante de programação
 - 🌱 Estou aprendendo PHP + Laravel
-- 😄 Ele/ Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odanilosouza&show_icons=true&theme=radical)
 <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odanilosouza&langs_count=8&layout=compact&theme=radical">
