@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estudante de programação
+- 🔭 Software engineer
 - 🌱 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odanilosouza&show_icons=true&theme=radical)
